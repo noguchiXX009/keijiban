@@ -1,0 +1,133 @@
+.logo img {
+	width: 250px;
+}
+
+header {
+	width: 100%;
+	height: 40px;
+	background-color: black;
+}
+
+header ul li {
+	float: left;
+	padding-left: 50px;
+    padding-right: 50px;
+    padding-top:10px;
+    list-style-type: none;
+    color: white;
+}
+.left {
+    float: left;
+    width: 60%;
+    margin-bottom: 60px;
+    margin-left: 10px;
+}
+
+.left .content {
+    border-left: 5px solid black;
+    border-bottom: 1px solid black;
+    padding-left: 10px;
+    margin-bottom: auto;
+}
+
+form{
+	margin: 0 auto;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	background-color: #fbfbfb;
+	border: 3px #ebebeb solid;
+	width: 100%;
+}
+
+.contractform h1 {
+	margin: 0 auto;
+	margin-top: 30px;
+	margin-bottom: 20px;
+	margin-left: 10px;
+	border-left: 4px red solid;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	padding-left: 15px;
+	font-size: 20px;
+}
+
+form .form {
+	padding: 15px;
+}
+
+.text, textarea{
+	border: 1px solid #dfdfdf;
+	padding: 5px;
+	color: #999;
+	background: #fff;
+}
+
+.submit{
+	border: 1px solid lightgray;
+	padding: 4px 10px;
+	color: white;
+	background-color: #bfbfbf;
+	border-radius: 5px;
+	border-bottom: solid 2px gray;
+}
+
+.result{
+	margin: 0 auto;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	background-color: #fbfbfb;
+	border: 3px #ebebeb solid;
+	width: 100%;
+}
+
+.result h3{
+	margin: 0 auto;
+	margin-top: 30px;
+	margin-bottom: 20px;
+	margin-left: 10px;
+	border-bottom: 1px gray solid;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	padding-left: 15px;
+	font-size: 20px;
+}
+
+.result .contents {
+	margin-left: 10px;
+	margin-bottom: 10px;
+}
+
+.result .contents .handlename {
+	font-size: 10px;
+	color: darkgray;
+	margin-top: 10px;
+}
+
+.right {
+    float: left;
+    width: 30%;
+    margin-left: 30px;
+    margin-top: 40px;
+}
+
+.right h3 {
+    border-bottom: 2px dashed black;
+}
+
+.right ul li {
+    list-style-type: none;
+}
+
+
+footer {
+    width: 100%;
+    height: 60px;
+    bottom: 0px;
+    clear: left;
+    margin-top: 200px;
+    left: 0px;
+    color: white;
+    background-color: black;
+    text-align: center;
+    line-height: 60px;
+}
